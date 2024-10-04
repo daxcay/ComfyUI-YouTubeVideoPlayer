@@ -12,4 +12,4 @@ Repository = "https://github.com/daxcay/ComfyUI-YouTubeVideoPlayer"
 [tool.comfy]
 PublisherId = "daxcay"
 DisplayName = "ComfyUI-YouTubeVideoPlayer"
-Icon = "https://raw.githubusercontent.com/daxcay/ComfyUI-YouTubeVideoPlayer/main/web/assets/img/logo.png"
+Icon = "https://raw.githubusercontent.com/daxcay/ComfyUI-YouTubeVideoPlayer/refs/heads/main/web/assets/logo.png"
