@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-youtubevideoplayer"
+description = "youtube video player in comfyui"
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/daxcay/ComfyUI-YouTubeVideoPlayer"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "daxcay"
+DisplayName = "ComfyUI-YouTubeVideoPlayer"
+Icon = "https://raw.githubusercontent.com/daxcay/ComfyUI-YouTubeVideoPlayer/main/web/assets/img/logo.png"
