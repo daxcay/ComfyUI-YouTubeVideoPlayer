@@ -14,13 +14,13 @@ class ComfyUIYouTubeVideoPlayer {
     }
 
     onNodeAdded(node) {
-        if (node.type === "YouTubePlayer") {
+        if (node.type === "YouTubeVideoPlayer") {
             this.registerNode(node, 1)
         }
     }
 
     onNodeRemoved(node) {
-        if (node.type === "YouTubePlayer") {
+        if (node.type === "YouTubeVideoPlayer") {
             this.registerNode(node, 0)
         }
     }
@@ -103,7 +103,7 @@ class ComfyUIYouTubeVideoPlayer {
 
     registerNodes() {
         this.app.graph._nodes.forEach(node => {
-            if (node.type === "YouTubePlayer") {
+            if (node.type === "YouTubeVideoPlayer") {
                 this.registerNode(node, 1)
             }
         })
@@ -163,7 +163,7 @@ let youtubeExt = {
         youtube.app.graph.onNodeRemoved = youtube.onNodeRemoved.bind(this);
     },
     async afterConfigureGraph() {
-        console.log("YouTubePlayer Extension Loaded");
+        console.log("YouTubeVideoPlayer Extension Loaded");
         youtube.registerNodes()
     }
 };
