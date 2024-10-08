@@ -29,19 +29,13 @@ Plays youtube videos in comfy. Use this node to share tutorials or renders. Yout
   <img src="https://github.com/user-attachments/assets/23cfc11d-d7d3-4d2a-b790-e91f8af98da5" alt="Your Image Description" />
 </p>
 
-- ### YT Shorts links: 
-    - Open your Shorts page and in the link, replace the "short" to "watch"
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8e2e3de0-d16b-4c88-acb9-3dbf6ae530a1" alt="Your Image Description" width="500">
-</p>
-Replace to:
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4dd5545f-9a87-488d-9285-cda9ae120b6b" alt="Your Image Description" width="500">
-</p>
- 
- - After pressing enter, a full youtube page will open 
- 
- - Right click on the video and copy video URL
+- ### YT Shorts links:
+  - Open your Shorts page and in the link, replace the "short" to "watch"
+    <img src="https://github.com/user-attachments/assets/8e2e3de0-d16b-4c88-acb9-3dbf6ae530a1" alt="Your Image Description" width="500">
+    <div>Replace to:</div>
+    <img src="https://github.com/user-attachments/assets/4dd5545f-9a87-488d-9285-cda9ae120b6b" alt="Your Image Description" width="500"> 
+  - After pressing enter, a full youtube page will open
+  - Right click on the video and copy video URL
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/957f0cb9-83f2-4cb9-85e8-5c4d811fe8a5" alt="Your Image Description" />
@@ -111,6 +105,8 @@ Change this From Private to **Public or Unlisted** in order to work
     - Click Install to download and install this node in your comfyui
 
 </br>
+
+---
 
 ## Contacts
 
