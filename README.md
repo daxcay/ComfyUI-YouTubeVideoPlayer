@@ -115,7 +115,7 @@ Change this From Private to **Public or Unlisted** in order to work
      - **Email** - daxtoncaylor+Github@gmail.com
      - **Patreon**: https://patreon.com/daxtoncaylor
      - **Buy me a coffee**: https://buymeacoffee.com/daxtoncaylor
-     - **Discord Server**: https://discord.gg/Z44Zjpurjp
+     - **Discord Server**: https://discord.gg/UyGkJycvyW
 
 - ### Node Idea - Jerry Davos
 
